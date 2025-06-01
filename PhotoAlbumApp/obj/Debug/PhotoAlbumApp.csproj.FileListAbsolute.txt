@@ -1,0 +1,10 @@
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.csproj.AssemblyReference.cache
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.Properties.Resources.resources
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.csproj.GenerateResource.cache
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.csproj.CoreCompileInputs.cache
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\bin\Debug\PhotoAlbumApp.exe.config
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\bin\Debug\PhotoAlbumApp.exe
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\bin\Debug\PhotoAlbumApp.pdb
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.exe
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.pdb
+C:\Users\slava\Desktop\Testing\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.exe.config
