@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoAlbumApp", "PhotoAlbumApp.csproj", "{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31803625-75D1-42CD-A171-A35B0FCFC1D1}
+	EndGlobalSection
+EndGlobal
