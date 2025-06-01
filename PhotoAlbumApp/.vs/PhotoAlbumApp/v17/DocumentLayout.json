@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|c:\\users\\slava\\desktop\\testing\\photoalbumapp\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|c:\\users\\slava\\desktop\\testing\\photoalbumapp\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|c:\\users\\slava\\desktop\\testing\\photoalbumapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PhotoAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\PhotoAlbum.cs",
+              "RelativeDocumentMoniker": "PhotoAlbum.cs",
+              "ToolTip": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\PhotoAlbum.cs",
+              "RelativeToolTip": "PhotoAlbum.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:50:43.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\Photo.cs",
+              "RelativeDocumentMoniker": "Photo.cs",
+              "ToolTip": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\Photo.cs",
+              "RelativeToolTip": "Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:48:36.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
