@@ -7,20 +7,19 @@ using System.Windows.Forms;
 
 public class PhotoAlbum
 {
-    private List<Photo> photos = new List<Photo>();
-    private ListView listView;
+    public List<Photo> photos = new List<Photo>();
+    public ListView listView;
     public PhotoAlbum(ListView listView)
     {
         this.listView = listView;
         LoadPhotos();
     }
-    private void LoadPhotos()
+    public void LoadPhotos()
     {
         listView.Items.Clear();
         foreach (var photo in photos)
         {
-            listView.Items.Add(new ListViewItem(new[] { photo.Path, photo.Description,
-photo.DateTaken.ToString("dd.MM.yyyy") }));
+            listView.Items.Add(new ListViewItem(new[] { photo.Path, photo.Description, photo.DateTaken.ToString("dd.MM.yyyy") }));
         }
     }
     public void AddPhoto()
@@ -61,7 +60,7 @@ photo.DateTaken.ToString("dd.MM.yyyy") }));
         LoadPhotos();
         MessageBox.Show("Фото отсортированы по дате.");
     }
-    private string GetDescription()
+    public string GetDescription()
     {
         return $"";
     }
