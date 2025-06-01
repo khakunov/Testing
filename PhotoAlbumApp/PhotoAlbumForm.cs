@@ -20,8 +20,9 @@ namespace PhotoAlbumApp
         public PhotoAlbumForm()
         {
             this.Text = "Управление фотографиями";
-            this.Width = 600;
-            this.Height = 400;
+            this.Width = 830;
+            this.Height = 450;
+            this.BackColor = Color.AliceBlue;
             CreateControls();
             photoAlbum = new PhotoAlbum(listView);
         }
@@ -30,13 +31,14 @@ namespace PhotoAlbumApp
             listView = new ListView
             {
                 Location = new System.Drawing.Point(10, 10),
-                Size = new System.Drawing.Size(580, 350),
+                Size = new System.Drawing.Size(800, 350),
                 View = View.Details,
-                FullRowSelect = true
+                FullRowSelect = true,
+                BackColor = Color.LightGray,
             };
-            listView.Columns.Add("Путь", 300);
-            listView.Columns.Add("Описание", 200);
-            listView.Columns.Add("Дата съёмки", 100);
+            listView.Columns.Add("Путь", 250);
+            listView.Columns.Add("Описание", 250);
+            listView.Columns.Add("Дата съёмки", 200);
             addPhotoButton = new Button
             {
                 Location = new System.Drawing.Point(10, 370),

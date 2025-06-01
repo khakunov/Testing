@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|c:\\users\\slava\\desktop\\testing\\photoalbumapp\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|c:\\users\\slava\\desktop\\testing\\photoalbumapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|c:\\users\\slava\\desktop\\testing\\photoalbumapp\\photoalbumform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\photoalbumform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:photoalbumform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|c:\\users\\slava\\desktop\\testing\\photoalbumapp\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E94AAAE7-E453-489F-8DE7-5B18DB2B3541}|PhotoAlbumApp.csproj|solutionrelative:photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "PhotoAlbumForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:56:42.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T17:56:42.144Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:56:28.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T17:56:28.92Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "PhotoAlbumForm.cs",
               "ToolTip": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\PhotoAlbumForm.cs",
               "RelativeToolTip": "PhotoAlbumForm.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T17:55:34.58Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "PhotoAlbum.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:50:43.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T17:50:43.079Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "ToolTip": "C:\\Users\\slava\\Desktop\\Testing\\PhotoAlbumApp\\PhotoAlbumForm.cs [Design]",
               "RelativeToolTip": "PhotoAlbumForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:39:30.309Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-01T17:39:30.309Z"
             }
           ]
         }
